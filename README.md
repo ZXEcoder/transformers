@@ -1,2 +1,3 @@
-# transformers
-Implementing transformers fro scratch
+# Implementing transformers from scratch
+
+
